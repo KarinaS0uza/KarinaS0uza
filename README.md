@@ -23,6 +23,7 @@ Aspiring **Data Scientist** with a background in Business Administration, an MBA
 
 ### GitHub Stats
 <p>
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=KarinaS0uza&theme=radical&show_icons=true&hide_rank=true" />
-  &nbsp;&nbsp;
+  <img height="165"
+       src="./profile/stats.svg"
+       alt="Karina Souza's GitHub Stats" />
 </p>
